@@ -63,8 +63,6 @@ public class SearchActivity extends AppCompatActivity {
 
     private void performSearch() {
         //ADAPTER IS SearchRcAdapter
-        //yuvytvyvtyg
-        System.out.println("Whyyyyyyy");
     }
 
     private void getUser() {
