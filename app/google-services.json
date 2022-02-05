@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341274889979",
+    "firebase_url": "https://thoughts-on-me-default-rtdb.firebaseio.com",
+    "project_id": "thoughts-on-me",
+    "storage_bucket": "thoughts-on-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341274889979:android:ddbfe723284a5eccf72a5e",
+        "android_client_info": {
+          "package_name": "com.gachugusville.thoughtsonme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341274889979-tnvrelp5bonp2hajn5tovcp52ia4rm1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gachugusville.thoughtsonme",
+            "certificate_hash": "0d4c34f2cf7d070ba1d8d040232d074cd7b49288"
+          }
+        },
+        {
+          "client_id": "341274889979-ophmbmahfh1fcth65nt5042ulrgrfjds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE72n4uzBjJIP_RZaITW3HZz392SLUN4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341274889979-ophmbmahfh1fcth65nt5042ulrgrfjds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

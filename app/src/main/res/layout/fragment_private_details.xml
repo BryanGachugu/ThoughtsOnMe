@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile.PrivateDetailsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Photo / gif"
+            android:textColor="@color/default_text_color"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="10dp"/>
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_private_dp"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="120dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/test"/>
+
+        <TextView
+            android:id="@+id/txt_upload_image"
+            android:layout_width="wrap_content"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/upload_image"
+            android:textSize="16sp"
+            android:textColor="@color/light_blue"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="private name"
+                android:layout_marginStart="10dp"
+                android:textColor="@color/text_color"/>
+
+
+            <EditText
+                android:id="@+id/edt_private_name"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:textColor="@color/default_text_color"
+                android:layout_marginStart="10dp"
+                android:layout_weight="2"
+                android:backgroundTint="@color/black_trans"
+                android:text="Gachugusville"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="5dp"
+            android:textColor="@color/default_text_color"
+            android:text="Your private name and profile picure are only used when: \n 1. Messaging in the app. \n 2. Leaving comments."/>
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".CHAT.ConversationListActivity">
+
+    <RelativeLayout
+        android:id="@+id/top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_arrow_back"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/chats"
+            android:textColor="@color/light_blue"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            tools:ignore="RelativeOverlap" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/small_dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/person_icon" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/conversations_rc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/top_layout" />
+
+  <LinearLayout
+      android:id="@+id/lyt_empty_inbox"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:visibility="gone"
+      android:orientation="vertical"
+      android:layout_centerInParent="true">
+
+      <com.airbnb.lottie.LottieAnimationView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginEnd="40dp"
+          android:layout_marginStart="40dp"
+          app:lottie_rawRes="@raw/astronaut_anim"
+          app:lottie_autoPlay="true"
+          app:lottie_loop="true"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:fontFamily="sans-serif"
+          android:layout_marginTop="20dp"
+          android:text="@string/empty_inbox_message"
+          android:textAlignment="center"
+          android:textColor="@color/text_color" />
+
+  </LinearLayout>
+
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/anim_loading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginStart="40dp"
+            android:layout_centerInParent="true"
+            app:lottie_rawRes="@raw/loading_anim"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"/>
+
+</RelativeLayout>

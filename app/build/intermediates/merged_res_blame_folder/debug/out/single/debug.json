@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_circle_loading_gif.gif.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/circle_loading_gif.gif"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_home_nav_custom.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/home_nav_custom.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_bottom_nav_selector.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_inbox_nav_custom.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/inbox_nav_custom.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_home_dark.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_home_dark.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_sent_message_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/sent_message_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_text_bottom_sheet_options.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/text_bottom_sheet_options.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_google_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/google_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_translate.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/translate.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_review_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/review_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_search_nav_custom.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/search_nav_custom.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_icon_search_dark_28.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/icon_search_dark_28.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_requests.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_requests.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_sign_up.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_search.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_search_icon_selected.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/search_icon_selected.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/anim_fade_in.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_chat_layout_options_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/chat_layout_options_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_facebook_circled_28.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/facebook_circled_28.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_conditions.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/conditions.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_target_rating_style.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/target_rating_style.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_reply_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/reply_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_facebook_circled.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/facebook_circled.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_inbox.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_review_writing.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/review_writing.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_loading_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/loading_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_lock.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_search.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_comments_bottom_sheet.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/comments_bottom_sheet.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_facebook_circled_38.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/facebook_circled_38.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_chat_bubble_fillled.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/chat_bubble_fillled.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_arrow_right.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_texting_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/texting_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_loading_spin.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/loading_spin.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_done_btn_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/done_btn_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_review_reply_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/review_reply_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_reply_msg_received_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/reply_msg_received_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_settings.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/font_crimson_text_semibold.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/font/crimson_text_semibold.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_sent_reply_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/sent_reply_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_home_blue.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_home_blue.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_disapprove_icon_outlined.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/disapprove_icon_outlined.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_send.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_icon_account_dark.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/icon_account_dark.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_conversation_list.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_conversation_list.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_alternate_email_icon.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/alternate_email_icon.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_edit_profile.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_keyboardvvoice.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_keyboardvvoice.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_searching_profile_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/searching_profile_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_comment_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/comment_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_all_reviews.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_all_reviews.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_custom_switch_track.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/custom_switch_track.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_approve_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/approve_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_add_review.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_add_review.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_tab_indicator.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/tab_indicator.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic__home.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic__home.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_third_intro_fragment.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/third_intro_fragment.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_received_msg_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/received_msg_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_test_logo_dark.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/test_logo_dark.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_home_icon_selected.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/home_icon_selected.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_hello_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/hello_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_home_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/home_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_crown.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/crown.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_final_step.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_final_step.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/menu_bottom_menu_items.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/menu/bottom_menu_items.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_google_sign_in.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_google_sign_in.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_account_circle.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_account_circle.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_baseline_more_horiz_24.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_messages.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_messages.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_arrow_back.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/arrow_back.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_first_intro.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_first_intro.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_message_list.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_message_list.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_sent_msg_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/sent_msg_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_forgot_password.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_chat_bubble.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/chat_bubble.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_dark_mode_outlined.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/dark_mode_outlined.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_step2.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_step2.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_bg_edit_text.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_received_message_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/received_message_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_bottom_sheet_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_review_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/review_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_home_review_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/home_review_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_link_box.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/link_box.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_notifications.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_notifications.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_count_background.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/count_background.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_account_settings.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_account_settings.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_person.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_find_people_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/find_people_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_user_details.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_user_details.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_bottom_nav_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/bottom_nav_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_notifications.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_dashboard.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_approve.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/approve.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_astronaut_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/astronaut_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_dashboard_profile.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_dashboard_profile.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_google_icon_38.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/google_icon_38.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_plus_icon.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/plus_icon.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_open_in_browser.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/open_in_browser.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_dark_mode_icon.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/dark_mode_icon.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_comments_btm_sheet_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/comments_btm_sheet_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_test_logo.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/test_logo.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_disapprove_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/disapprove_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_custom_switch_thumb.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/custom_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_exit.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_received_emoji_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/received_emoji_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_reply_msg_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/reply_msg_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_sent_emoji_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/sent_emoji_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_log_in.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/xml_activity_user_details_scene.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/xml/activity_user_details_scene.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_recieved_reply_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/recieved_reply_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_delete_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/delete_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_fourth_intro.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_fourth_intro.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_sent_reply_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/sent_reply_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_age_restricted_review.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_age_restricted_review.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_heart_icon.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/heart_icon.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_person_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/person_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_public_details.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_public_details.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_backspace_icon.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/backspace_icon.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_private_details.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_private_details.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_add_new_review.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/add_new_review.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_options.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_options.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_icons_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/icons_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_message.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_message.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_search_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/search_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_positive_reviews.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_positive_reviews.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_child_reply.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/child_reply.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_search.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_approve_icon_filled.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/approve_icon_filled.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_reply_msg_sent_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/reply_msg_sent_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_account.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_step1.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_step1.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_not_found_face_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/not_found_face_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_target_details.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_target_details.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_down_arrow_text.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/down_arrow_text.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_star.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ico_dis.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ico_dis.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_anonymous_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/anonymous_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_forget_password.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/forget_password.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_registration_btn_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/registration_btn_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_chat_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/chat_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/anim_fade_out.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_chat_layout.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/chat_layout.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_copy_icon.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/copy_icon.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_messages_selector.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/messages_selector.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_arrow_back.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_icons_favorite.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/icons_favorite.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_intro_fragments.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_intro_fragments.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_test.jpg.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/test.jpg"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_settings.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_received_reply_bg.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/received_reply_bg.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_bottom_sheet.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/bottom_sheet.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/anim_blink_anim.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/anim/blink_anim.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_negative_reviews.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_negative_reviews.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_language_icon.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/language_icon.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_send_comment.png.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/send_comment.png"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/raw_empty_anim.json.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/raw/empty_anim.json"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/xml_dashboard_profile_scene.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/xml/dashboard_profile_scene.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/drawable_ic_add_review.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/drawable/ic_add_review.xml"
+    },
+    {
+        "merged": "/home/bryan/Documents/AndroidProjects/app/build/intermediates/merged_res/debug/layout_fragment_second_intro.xml.flat",
+        "source": "/home/bryan/Documents/AndroidProjects/app/src/main/res/layout/fragment_second_intro.xml"
+    }
+]

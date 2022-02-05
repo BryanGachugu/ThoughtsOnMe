@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.40677083333333336" />
+        <entry key="../../../layout/custom_preview.xml" value="0.40208333333333335" />
+        <entry key="app/src/main/res/drawable/arrow_back.xml" value="0.3841025641025641" />
+        <entry key="app/src/main/res/drawable/backspace_icon.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/bg_edit_text.xml" value="0.3875" />
+        <entry key="app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/circular_progress_bar_big.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/comment_bg.xml" value="0.3875" />
+        <entry key="app/src/main/res/drawable/comments_btm_sheet_bg.xml" value="0.3875" />
+        <entry key="app/src/main/res/drawable/count_backround.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/curved_top_bg.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/custom_switch_thumb.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/custom_switch_track.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/done_btn_bg.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/heart_icon.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/home_nav_custom.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/ic_add_review.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/ic_arrow_right.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/icons_bg.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/inbox_nav_custom.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/link_box.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/drawable/plus_icon.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/received_msg_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/received_reply_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/registration_btn_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/reply_msg_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/reply_msg_received_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/reply_msg_sent_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/search_nav_custom.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/sent_msg_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/sent_reply_bg.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/splash_screen_background.xml" value="0.390625" />
+        <entry key="app/src/main/res/drawable/tab_indicator.xml" value="0.3953125" />
+        <entry key="app/src/main/res/drawable/target_rating_style.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/acount_info_layout.xml" value="0.37864583333333335" />
+        <entry key="app/src/main/res/layout/activity_account_settings.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/activity_add_review.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_conversation_list.xml" value="0.37864583333333335" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_dashboard_profile.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/activity_google_sign_in.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_intro_fragments.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_log_in.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_messages.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_notifications.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_reply_review.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/activity_search_details.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_target_details.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_user_details.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_user_reviews.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/bottom_sheet.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/chat_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/child_reply.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/comments_bottom_sheet.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/layout/dash_scene1.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/dash_scene2.xml" value="0.37864583333333335" />
+        <entry key="app/src/main/res/layout/dashboard_expanded.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/dashboard_minimized.xml" value="0.23914473684210527" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.37864583333333335" />
+        <entry key="app/src/main/res/layout/fragment_age_restricted_review.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_all_reviews.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_final_step.xml" value="0.36148148148148146" />
+        <entry key="app/src/main/res/layout/fragment_first_intro.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_fourth_intro.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_inbox.xml" value="0.15208333333333332" />
+        <entry key="app/src/main/res/layout/fragment_message_list.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/fragment_negative_reviews.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_positive_reviews.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_private_details.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/fragment_public_details.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/layout/fragment_second_intro.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_step1.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_step2.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/home_review_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/received_emoji_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/received_message_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/recieved_media_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/recieved_reply_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/review_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/review_reply_layout.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/layout/sent_emoji_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/sent_media_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/sent_message_layout.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/sent_reply_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/text_bottom_sheet_options.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/third_intro_fragment.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/menu/bottom_menu_items.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/xml/dashboard_profile_scene.xml" value="0.23914473684210527" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.37864583333333335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

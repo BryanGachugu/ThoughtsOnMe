@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/received_message_layout"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical"
+    android:layout_marginTop="8dp">
+
+
+    <TextView
+        android:id="@+id/txt_received_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginEnd="100dp"
+        android:background="@drawable/received_msg_bg"
+        android:fontFamily="sans-serif"
+        android:letterSpacing="0.02"
+        android:padding="10dp"
+        android:text="You know, some while ago When I was youger I could relly tell you Lorem Ipsum You know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem IpsumYou know, some while ago When I was youger I could relly tell you Lorem Ipsum"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:padding="5dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/publisher_profile_url_mc"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/test"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:padding="4dp"
+            android:orientation="vertical">
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:padding="4dp"
+                   android:background="@drawable/comment_bg"
+                   android:orientation="vertical">
+
+                   <TextView
+                       android:id="@+id/publisher_nick_name_mc"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Bryan Gachugu"
+                       android:textColor="@color/default_text_color"
+                       android:textStyle="bold"/>
+
+                   <TextView
+                       android:id="@+id/txt_comment_mc"
+                       android:layout_width="wrap_content"
+                       android:layout_marginTop="5dp"
+                       android:layout_height="wrap_content"
+                       android:text="Whyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+                       android:textColor="@color/default_text_color"/>
+
+                   <ImageView
+                       android:id="@+id/media_url_img_mc"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_marginTop="3dp"
+                       android:scaleType="fitCenter"
+                       android:src="@drawable/test"
+                       android:adjustViewBounds="true"/>
+
+               </LinearLayout>
+
+            <TextView
+                android:id="@+id/txt_reply_mc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Reply"
+                android:textColor="@color/default_text_color"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/comment_replies_rc_mc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
